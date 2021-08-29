@@ -1,4 +1,4 @@
-# Hello, I'm <a href="https://www.facebook.com/profile.php?id=100043219777932">Ankul Yadav!👋</a>🏽🧑🏾‍💻
+# Hello, I'm <a href="https://www.facebook.com/profile.php?id=100043219777932">Ankul Yadav!👋</a>🧑🏾‍💻
 
 ## I'm a Student and A hustler
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
