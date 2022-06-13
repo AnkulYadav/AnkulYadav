@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="ankulyadav" /> </p>
 
-- 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- 🔭 I’m currently working on [NodeJS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 - 🌱 I’m currently learning more about **Javascript,Python,C++ etc.**
 
-- 💬 Ask me about **C, HTML , CSS etc.**
+- 💬 Ask me about **C, HTML , CSS , Javascript , JQuery , Bootstrap etc.**
 
 - 📫 How to reach me **ankulyadav9001@gmail.com**
 
