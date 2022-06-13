@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [NodeJS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-- 🌱 I’m currently learning more about **Javascript,Python,C++ etc.**
+- 🌱 I’m currently learning more about **React JS , Next JS ,  etc.**
+
+- 🌱 Ask me about DSA in C++ 
 
 - 💬 Ask me about **C, HTML , CSS , Javascript , JQuery , Bootstrap etc.**
 
