@@ -11,7 +11,7 @@
 
 - 🌱 Ask me about DSA in C++ 
 
-- 💬 Ask me about **C, HTML , CSS , Javascript , JQuery , Bootstrap etc.**
+- 💬 Ask me about **C, HTML , CSS , Javascript , JQuery , Bootstrap , PHP ,  etc.**
 
 - 📫 How to reach me **ankulyadav9001@gmail.com**
 
