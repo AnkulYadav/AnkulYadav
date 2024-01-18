@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="ankulyadav" /> </p>
 
-- 🔭 I’m currently working on [NodeJS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-
-- 🌱 I’m currently learning more about **React JS , Next JS ,  etc.**
-
-- 🌱 Ask me about DSA in C++ 
+- 🌱 Ask me about React , Node , Express , MongoDB
 
 - 💬 Ask me about **C, HTML , CSS , Javascript , JQuery , Bootstrap , PHP ,  etc.**
 
